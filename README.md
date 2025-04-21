@@ -34,3 +34,47 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# Gmail Summary App
+
+A Next.js application that summarizes Gmail emails by sender and provides daily statistics.
+
+## Features
+
+- OAuth authentication with Google
+- View emails from Gmail inbox
+- See a summary of emails grouped by sender
+- Toggle between today's and yesterday's emails
+- Responsive UI built with Tailwind CSS
+
+## Technologies Used
+
+- Next.js 15
+- TypeScript
+- Next Auth
+- Google Gmail API
+- Tailwind CSS
+
+## Setup and Installation
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Create a `.env.local` file with your Google API credentials
+4. Run the development server: `npm run dev`
+
+## Screenshots
+
+[Add screenshots of your application here]
+
+## License
+
+MIT
+
+qw
+q
+Ô
+^o
+⁰
+O=X
+qq
